@@ -1,3 +1,4 @@
+// C++ program for while loop.
 #include<iostream>
 using namespace std;
 

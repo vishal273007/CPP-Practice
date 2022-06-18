@@ -1,4 +1,4 @@
-// C++ program for calculator using Switch Statement. This program can also be done by if else condition.
+// C++ program for calculator using Switch Statement.
 #include <iostream>
 using namespace std;
 

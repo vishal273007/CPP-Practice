@@ -1,3 +1,4 @@
+// C++ program to check wether a number is more or less than 10.
 #include<iostream>
 using namespace std;
 

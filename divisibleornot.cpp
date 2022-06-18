@@ -1,3 +1,4 @@
+// C++ program to check wither a number is divisible by both 2 and 3 or only 2 or only 3.
 #include<iostream>
 using namespace std;
 

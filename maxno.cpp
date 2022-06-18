@@ -1,3 +1,4 @@
+// C++ program for checking which number is bigger from 3 inputs.
 #include<iostream>
 using namespace std;
 
